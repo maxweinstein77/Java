@@ -1,5 +1,5 @@
 # Java
 
-This repository contains my notes and projects as I learn Java.
+This repo contains my Java projects.
 
 ## 🧩 Projects
