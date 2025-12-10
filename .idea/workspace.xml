@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p2_dailybudgetcalculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/l1_yourfirstjavaapp/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/l1_yourfirstjavaapp/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -85,7 +84,7 @@
       <updated>1765165395889</updated>
       <workItem from="1765165505066" duration="4914000" />
       <workItem from="1765170741869" duration="90000" />
-      <workItem from="1765254569332" duration="6350000" />
+      <workItem from="1765254569332" duration="18911000" />
     </task>
     <servers />
   </component>
