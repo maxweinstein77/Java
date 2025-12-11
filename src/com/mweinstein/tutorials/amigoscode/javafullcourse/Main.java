@@ -214,7 +214,7 @@ LESSON 11: DIFFERENCES BETWEEN PRIMITIVE AND REFERENCE TYPES
 
 package com.mweinstein.tutorials.amigoscode.javafullcourse;
 
-public class Test {
+public class Main {
 
     public static void main(String[] args) {
         int a = 10;
