@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p4_shoppingcart/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" afterDir="false" />
@@ -85,7 +86,7 @@
       <workItem from="1765165505066" duration="4914000" />
       <workItem from="1765170741869" duration="90000" />
       <workItem from="1765254569332" duration="23503000" />
-      <workItem from="1765418939190" duration="658000" />
+      <workItem from="1765418939190" duration="9983000" />
     </task>
     <servers />
   </component>

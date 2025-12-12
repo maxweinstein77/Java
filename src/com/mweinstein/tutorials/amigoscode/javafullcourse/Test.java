@@ -3,6 +3,23 @@ package com.mweinstein.tutorials.amigoscode.javafullcourse;
 public class Test {
 
     public static void main(String[] args) {
+    }
+
+    static class Person {
+        String name;
+
+        Person(String name) {
+            this.name = name;
+        }
+    }
+}
+
+/*
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Test {
+
+    public static void main(String[] args) {
         int a = 10;
         int b = a;
         a = 100;
@@ -28,3 +45,4 @@ public class Test {
         }
     }
 }
+ */
