@@ -3,46 +3,19 @@ package com.mweinstein.tutorials.amigoscode.javafullcourse;
 public class Test {
 
     public static void main(String[] args) {
-    }
+        // String
+        char a =  'A';
+        char b = 'B';
 
-    static class Person {
-        String name;
+        String name = "Amigoscode"; // Name = object of str
+        System.out.println(name.toUpperCase());
+        System.out.println(name.toLowerCase());
+        System.out.println(name.charAt(0));
+        System.out.println(name.charAt(1));
+        String code = new String("code");
+        System.out.println(name.contains(code));
+        System.out.println(name.equals(code));
 
-        Person(String name) {
-            this.name = name;
-        }
-    }
-}
-
-/*
-package com.mweinstein.tutorials.amigoscode.javafullcourse;
-
-public class Test {
-
-    public static void main(String[] args) {
-        int a = 10;
-        int b = a;
-        a = 100;
-        System.out.println("a = " + a + " - b = " + b);
-
-        Person alex = new Person("Alex");
-        Person miriam = alex;
-
-        System.out.println("Before changing Alex: ");
-        System.out.println(alex.name + " " + miriam.name);
-
-        alex.name = "Alexander";
-
-        System.out.println("After changing Alex: ");
-        System.out.println(alex.name + " " + miriam.name);
-    }
-
-    static class Person {
-        String name;
-
-        Person(String name) {
-            this.name = name;
-        }
+        // Capital letter = class where you can create methods
     }
 }
- */

@@ -261,4 +261,27 @@ addr:201 --> Alex
 addr:202 --> Miriam
 - This is a reference to the object (addr:200).
 
+
+-------------------------------------------------------------------------------
+LESSON 12: NAMING VARIABLES
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int zero = 0;
+        int one = 1;
+        double pi = 2.1415;
+        int subscriberCountForAmigoscode = 1_000_000; // Camel case
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 13: THE STRING CLASS
+-------------------------------------------------------------------------------
+
+
+
  */
