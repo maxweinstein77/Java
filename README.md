@@ -9,3 +9,4 @@ This repo contains my Java projects.
 - ✅ [Running Tracker](src/com/mweinstein/projects/p3_runningtracker/Main.java)
 - ✅ [Shared Shopping Cart](src/com/mweinstein/projects/p4_shoppingcart/Main.java)
 - ✅ [Contact Card](src/com/mweinstein/projects/p5_contactcard/Main.java)
+- ✅ [String Inspector](src/com/mweinstein/projects/p6_stringinspector/Main.java)
