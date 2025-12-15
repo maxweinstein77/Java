@@ -282,6 +282,114 @@ public class Main {
 LESSON 13: THE STRING CLASS
 -------------------------------------------------------------------------------
 
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
 
+public class Main {
+
+    public static void main(String[] args) {
+        // String
+        String name = "Amigoscode";
+        System.out.println(name.toUpperCase());
+        System.out.println(name.toLowerCase());
+        System.out.println(name.charAt(1));
+        String code = new String("codes");
+        System.out.println(name.contains(code));
+        System.out.println(name.equals(code));
+    }
+}
+
+Pasted from W3 Schools:
+
+Method                 Description                        Return
+charAt()               Character at index                 char
+codePointAt()          Unicode at index                   int
+codePointBefore()      Unicode before index               int
+codePointCount()       Count of Unicode values            int
+compareTo()            Lexicographic comparison           int
+compareToIgnoreCase()  Compare ignoring case              int
+concat()               Append string                      String
+contains()             Contains sequence                  boolean
+contentEquals()        Exact sequence match               boolean
+copyValueOf()          Char array to String               String
+endsWith()             Ends with value                    boolean
+equals()               Equality check                     boolean
+equalsIgnoreCase()     Equality ignoring case             boolean
+format()               Formatted string                   String
+getBytes()             Convert to byte array              byte[]
+getChars()             Copy chars to array                void
+hashCode()             Hash code                          int
+indexOf()              First occurrence                   int
+intern()               Canonical string                   String
+isEmpty()              Check if empty                     boolean
+join()                 Join strings                       String
+lastIndexOf()          Last occurrence                    int
+length()               String length                      int
+matches()              Regex match                        boolean
+offsetByCodePoints()   Unicode index offset               int
+regionMatches()        Compare string regions             boolean
+replace()              Replace value                      String
+replaceAll()           Replace regex matches              String
+replaceFirst()         Replace first regex match          String
+split()                Split into array                   String[]
+startsWith()           Starts with value                  boolean
+subSequence()          Return subsequence                 CharSequence
+substring()            Extract substring                  String
+toCharArray()          Convert to char array              char[]
+toLowerCase()          Convert to lowercase               String
+toString()             Return string                      String
+toUpperCase()          Convert to uppercase               String
+trim()                 Remove edge whitespace             String
+valueOf()              Convert value to string            String
+
+-------------------------------------------------------------------------------
+LESSON 14: PACKAGING AND IMPORTING KEYWORDS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.Date;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Date date = new Date();
+        String s = new String();
+        LocalDate localDate = LocalDate.now();
+        LocalDateTime localDateTime = LocalDateTime.now();
+    }
+}
+
+Only reason you'd want to do imnport explicitly is when you have, for example,
+two dates --> java.util.Date + java.sal.Date (two classes with same name but
+live in different packages)
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.util.Date;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Date date = new Date();
+        java.sql.Date dateSql = new java.sql.Date(1);
+        String s = new String();
+        LocalDate localDate = LocalDate.now();
+        LocalDateTime localDateTime =
+                LocalDateTime.now();
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 15: RESERVED KEYWORDS
+-------------------------------------------------------------------------------
+
+Reserved keywords - keywords used for language itself (e.g. package, public,
+class, static, void, etc.)
+
+Can't use these to name your methods/variables
 
  */
