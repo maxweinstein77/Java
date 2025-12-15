@@ -4,6 +4,8 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
+import java.time.format.TextStyle;
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
@@ -27,6 +29,13 @@ public class Main {
         char choiceFormatted = Character.toUpperCase(choice);
 
         LocalDate nowDate = LocalDate.now();
+
+        String dayOfWeek = nowDate.getDayOfWeek()
+                .getDisplayName(TextStyle.FULL, Locale.ENGLISH);
+
+        String month = nowDate.getMonth()
+                .getDisplayName(TextStyle.FULL, Locale.ENGLISH);
+
         DateTimeFormatter dateFormatter =
                 DateTimeFormatter.ofPattern ("MMM dd, yyyy");
 
@@ -39,9 +48,9 @@ public class Main {
                 DateTimeFormatter.ofPattern("h:mm a, MMM dd, yyyy");
 
         if (choiceFormatted == 'W') {
-            System.out.println(nowDate.getDayOfWeek());
+            System.out.println(dayOfWeek);
         } else if (choiceFormatted == 'M') {
-            System.out.println(nowDate.getMonth());
+            System.out.println(month);
         } else if (choiceFormatted == 'Y') {
             System.out.println(nowDate.getYear());
         } else if (choiceFormatted == 'D') {
