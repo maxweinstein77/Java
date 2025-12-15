@@ -1,6 +1,7 @@
 package com.mweinstein.projects.p5_contactcard;
 
 public class Main {
+
     public static void main(String[] args) {
         String firstName = "Max";
         String lastName = "Weinstein";

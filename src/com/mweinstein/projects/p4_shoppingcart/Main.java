@@ -16,10 +16,10 @@ public class Main {
 
         userOne.cart.itemCount += itemsUserOne;
 
-        System.out.println(userOne.name + " has " + userOne.cart.itemCount +
-                " items in cart.");
-        System.out.println(userTwo.name + " has " + userTwo.cart.itemCount +
-                " items in cart.");
+        System.out.println(userOne.name + " has " +
+                userOne.cart.itemCount + " items in cart.");
+        System.out.println(userTwo.name + " has " +
+                userTwo.cart.itemCount + " items in cart.");
     }
 
     static class Cart {

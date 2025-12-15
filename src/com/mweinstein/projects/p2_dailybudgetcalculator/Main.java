@@ -23,10 +23,10 @@ public class Main {
         double snackCost = scanner.nextDouble();
 
         System.out.println("How much was the subway?");
-        double subway = scanner.nextDouble();
+        double subwayCost = scanner.nextDouble();
 
         double dailyCost =
-                breakfastCost + lunchCost + dinnerCost + snackCost + subway;
+                breakfastCost + lunchCost + dinnerCost + snackCost + subwayCost;
 
         double remainingBalance = dailyBudget - dailyCost;
 

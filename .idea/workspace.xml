@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p6_stringinspector/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p7_datetimechecker/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p1_helloworld/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p1_helloworld/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p2_dailybudgetcalculator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p2_dailybudgetcalculator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p3_runningtracker/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p3_runningtracker/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p5_contactcard/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p5_contactcard/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p1_helloworld/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p1_helloworld/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p2_dailybudgetcalculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p2_dailybudgetcalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p3_runningtracker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p3_runningtracker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p4_shoppingcart/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p4_shoppingcart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p5_contactcard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p5_contactcard/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p6_stringinspector/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p6_stringinspector/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,28 +43,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/maxweinstein/Documents/Coding/GitHub/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/maxweinstein/Documents/Coding/GitHub/Java/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.29765546&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/maxweinstein/Documents/Coding/GitHub/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/maxweinstein/Documents/Coding/GitHub/Java/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.splitter.proportion": "0.29765546",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -90,11 +98,23 @@
       <workItem from="1765254569332" duration="23503000" />
       <workItem from="1765418939190" duration="11347000" />
       <workItem from="1765681392070" duration="2050000" />
+      <workItem from="1765727742862" duration="20833000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

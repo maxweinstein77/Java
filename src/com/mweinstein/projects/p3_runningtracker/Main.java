@@ -11,35 +11,36 @@ public class Main {
         double weightInPounds = scanner.nextDouble();
 
         System.out.println("How many miles did you run? ");
-        double miles = scanner.nextDouble();
+        double durationInMiles = scanner.nextDouble();
 
         System.out.println("How many minutes was your run? ");
-        double minutes = scanner.nextDouble();
+        double durationInMinutes = scanner.nextDouble();
 
         System.out.println("How intense was your run?\n" +
-                "Enter 'A' for hard, 'B' for moderate, or 'C' for easy.");
+                "Type 'A' for hard, 'B' for moderate, 'C' for easy");
         char intensityMarker = scanner.next().charAt(0);
+        char intensityMarkerFormatted = Character.toUpperCase(intensityMarker);
 
         String intensityLevel;
-        if (Character.toUpperCase(intensityMarker) == 'A') {
+        if (intensityMarkerFormatted == 'A') {
             intensityLevel = "Hard";
-        } else if (Character.toUpperCase(intensityMarker) == 'B') {
+        } else if (intensityMarkerFormatted == 'B') {
             intensityLevel = "Moderate";
-        } else if (Character.toUpperCase(intensityMarker) == 'C') {
+        } else if (intensityMarkerFormatted == 'C') {
             intensityLevel = "Easy";
         } else {
             intensityLevel = "N/A";
         }
 
-        double pace = minutes / miles;
+        double pace = durationInMinutes / durationInMiles;
         String paceFormatted = String.format("%.2f", pace);
 
-        double caloriesBurned = miles * weightInPounds * 0.75;
+        double caloriesBurned = (durationInMiles * weightInPounds) * 0.75;
         String caloriesBurnedFormatted = String.format("%.2f", caloriesBurned);
 
-        System.out.println("Running Workout Overview" +
-                "\n\nDistance: " + miles + " miles" +
-                "\nTime: " + minutes + " minutes" +
+        System.out.println("Workout Summary" +
+                "\n\nDistance: " + durationInMiles + " miles" +
+                "\nTime: " + durationInMinutes + " minutes" +
                 "\nPace: " + paceFormatted + " min/mile" +
                 "\nCalories Burned: " + caloriesBurnedFormatted + " calories" +
                 "\nIntensity: " + intensityLevel);
