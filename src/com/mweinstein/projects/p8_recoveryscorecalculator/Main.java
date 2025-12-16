@@ -8,14 +8,14 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         int baseScore = 100;
-        int optimalSleepHours = 8;
+        double optimalSleepHours = 8;
 
         System.out.println("How many hours did you sleep last night?");
-        int sleepHours = scanner.nextInt();
+        double sleepHours = scanner.nextDouble();
 
-        int sleepDeviationHours = Math.abs(sleepHours - optimalSleepHours);
-        int sleepPenalty = sleepDeviationHours * 3;
-        int scoreAfterSleep = baseScore - sleepPenalty;
+        double sleepDeviationHours = Math.abs(sleepHours - optimalSleepHours);
+        double sleepPenalty = sleepDeviationHours * 3;
+        int scoreAfterSleep = baseScore - (int) sleepPenalty;
 
         System.out.println("How many minutes did you exercise today?");
         int exerciseMinutes = scanner.nextInt();
