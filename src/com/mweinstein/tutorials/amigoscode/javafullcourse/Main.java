@@ -392,4 +392,43 @@ class, static, void, etc.)
 
 Can't use these to name your methods/variables
 
+-------------------------------------------------------------------------------
+LESSON 16: ARITHMETIC OPERATIONS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Arithmetic operations
+        System.out.println(10 + 2 + 90);
+        System.out.println(10 - 2);
+        System.out.println((10 * 2) + 7);
+        // Pemdas
+        System.out.println(10 * (2 + 7) - 4.5);
+        System.out.println(10 % 3);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 17: THE MATH CLASS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Math
+        System.out.println(Math.abs(-10));
+        System.out.println(Math.max(6, 10));
+        System.out.println(Math.min(6, 10));
+        System.out.println(Math.pow(5.0, 2.0));
+        System.out.println((int) Math.pow(5, 2));
+        System.out.println((int) Math.sqrt(25));
+        System.out.println(Math.PI);
+    }
+}
+
  */
