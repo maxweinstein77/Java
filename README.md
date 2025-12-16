@@ -11,3 +11,4 @@ This repo contains my Java projects.
 - ✅ [Contact Card](src/com/mweinstein/projects/p5_contactcard/Main.java)
 - ✅ [String Inspector](src/com/mweinstein/projects/p6_stringinspector/Main.java)
 - ✅ [Date Time Checker](src/com/mweinstein/projects/p7_datetimechecker/Main.java)
+- ✅ [Recovery Score Calculator](src/com/mweinstein/projects/p8_recoveryscorecalculator/Main.java)
