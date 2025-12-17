@@ -431,4 +431,56 @@ public class Main {
     }
 }
 
+-------------------------------------------------------------------------------
+LESSON 17: COMPARISON OPERATORS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Comparison operators
+        int khalidAge = 20;
+        int miriamAge = 20;
+        System.out.println(khalidAge > miriamAge);
+        System.out.println(khalidAge >= miriamAge);
+        System.out.println(khalidAge < miriamAge);
+        System.out.println(khalidAge <= miriamAge);
+        System.out.println(khalidAge == miriamAge);
+        System.out.println(khalidAge != miriamAge);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 18: LOGICAL OPERATORS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Logical operators
+        boolean isAdult = false;
+        boolean isStudent = true;
+        boolean isAmigoscodeMember = true;
+        System.out.println(isAdult && isStudent);
+        System.out.println(isAdult || isStudent);
+        System.out.println((isAdult || isStudent) && isAmigoscodeMember);
+        System.out.println((!isAdult || isStudent) && isAmigoscodeMember);
+        System.out.println((!isAdult || isStudent) && !isAmigoscodeMember);
+        System.out.println(isAdult);
+        System.out.println(!isAdult);
+        String name = "Mark";
+        System.out.println((10 > 8 || 2 <= 2) &&
+                !isAdult &&
+                name.contains("M"));
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 19: IF STATEMENTS
+-------------------------------------------------------------------------------
+
  */
