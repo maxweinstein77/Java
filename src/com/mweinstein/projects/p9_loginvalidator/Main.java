@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Username: ");
+        System.out.println("Username:");
         String username = scanner.nextLine();
         boolean usernameLengthSatisfied =
                 username.length() >= MINIMUM_USERNAME_LENGTH &&
@@ -24,7 +24,7 @@ public class Main {
                             MAXIMUM_USERNAME_LENGTH +
                             " characters.");
         } else {
-            System.out.println("Password: ");
+            System.out.println("Password:");
             String password = scanner.nextLine();
             boolean passwordLengthSatisfied =
                     password.length() >= MINIMUM_PASSWORD_LENGTH &&
