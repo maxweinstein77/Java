@@ -12,3 +12,4 @@ This repo contains my Java projects.
 6. [String Inspector](src/com/mweinstein/projects/p6_stringinspector/Main.java)
 7. [Date Time Checker](src/com/mweinstein/projects/p7_datetimechecker/Main.java)
 8. [Recovery Score Calculator](src/com/mweinstein/projects/p8_recoveryscorecalculator/Main.java)
+9. [Login Validator](src/com/mweinstein/projects/p9_loginvalidator/Main.java)
