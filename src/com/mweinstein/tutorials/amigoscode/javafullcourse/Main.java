@@ -483,4 +483,575 @@ public class Main {
 LESSON 19: IF STATEMENTS
 -------------------------------------------------------------------------------
 
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+       // If statements
+        int age = 15;
+        if (age >= 18) {
+            System.out.println("Hooray... I am an adult");
+        } else if (age >= 16 && age < 18) {
+            System.out.println("I am almost an adult");
+        } else {
+            System.out.println("I am not an adult");
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 20: TERNARY OPERATOR
+-------------------------------------------------------------------------------
+
+Should only use this when evaluating one boolean expression or want to return
+a value
+
+More complex stuff --> if else
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+       // Ternary operator
+        int age = 15;
+        String message = age >= 18 ?
+                "Hooray... I am an adult" :
+                "I am not an adult";
+
+        System.out.println(message);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 21: SWITCH STATEMENTS
+-------------------------------------------------------------------------------
+
+Use switch statements when switching on single values
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Switch statement
+        String gender = "female";
+
+        switch (gender.toUpperCase()) {
+            case "FEMALE":
+                System.out.println("I am a female");
+                break;
+            case "MALE":
+                System.out.println("I am a male");
+                break;
+            case "PREFER_NOT_SAY":
+                System.out.println("Prefer not say");
+                break;
+            default:
+                System.out.println("Unknown gender");
+        }
+    }
+}
+
+EQUIVALENTLY:
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        String gender = "FEMALE";
+        if (gender.equals("FEMALE")) {
+
+        } else if (gender.equals("MALE")) {
+
+        } else if (gender.equals("PREFER_NOT_SAY")) {
+
+        } else {
+
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 22: ARRAYS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+import java.util.Arrays;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Arrays
+        int zero = 0;
+        int one = 1;
+
+        int [] numbers1 = new int[3];
+        System.out.println(Arrays.toString(numbers1));
+
+        boolean [] booleans = new boolean[3];
+        System.out.println(Arrays.toString(booleans));
+
+        String [] numbers2  = new String[3];
+        System.out.println(Arrays.toString(numbers2));
+
+        int [] numbers3 = new int[3];
+        numbers3[0] = 2;
+        numbers3[1] = 0;
+        numbers3[2] = 1;
+        System.out.println(Arrays.toString(numbers3));
+
+        // Most efficient way
+        int [] numbers4 = {2, 0, 1, 4, 100};
+        System.out.println(Arrays.toString(numbers4));
+        System.out.println(numbers4.length);
+
+        String [] names = {"Ali", "Maria"};
+        System.out.println(Arrays.toString(names));
+        System.out.println(names.length);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 23: ARRAYS AND INDEXES
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Arrays
+        int [] numbers = {2, 0, 1, 4, 100};
+        int oneHundred = numbers[4];
+        int arrayLength = numbers[numbers.length - 1];
+        System.out.println(oneHundred);
+        System.out.println(arrayLength);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 24: ++ & --
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+       // Loops
+        int[] numbers = {2, 0, 1, 4, 100, 4,90, 78, 77};
+
+        int number1 = 0;
+        number1++; // Equivalently: number = number + 1 or number += 1;
+        System.out.println(number1);
+
+        int number2 = 0;
+        number2--; // Equivalently: number = number - 1 or number -= 1;
+        System.out.println(number2);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 25: ENHANCED FOR LOOP
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+       // Loops
+        int[] numbers = {2, 0, 1, 4, 100, 4,90, 78, 77};
+        String[] names = {"Ana", "Ali"};
+
+        for (int i = 0; i < numbers.length; i++) {
+            System.out.println(numbers[i]);
+        }
+
+        System.out.println("Enhanced for loop");
+
+        for (int number : numbers) {
+            System.out.println(number);
+        }
+
+        for (String name : names) {
+            System.out.println(name);
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 26: BONUS TIP
+-------------------------------------------------------------------------------
+
+Quicker way to code loops:
+numbers.for
+
+Advanced way to loop through array:
+Arrays.stream(numbers).forEach(System.out::println);
+Arrays.stream(names).forEach(System.out::println);
+
+-------------------------------------------------------------------------------
+LESSON 27: BREAK & CONTINUE
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Break and Continue
+        String[] names = {"Anna", "Ali", "Bob", "Mike"};
+        for (String name : names) {
+            System.out.println(name);
+            break; // Breaks out of loop
+        }
+
+        for (String name : names) {
+            if (name.equals("Bob")) {
+                break;
+            }
+            System.out.println(name);
+        }
+
+        for (String name : names) {
+            if (name.startsWith("A")) {
+                continue; // Goes back to beginning of loop
+            }
+            System.out.println(name);
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 28: WHILE LOOP
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // While loop
+        int count = 0;
+
+        while (count <= 20) {
+            System.out.println("count " + count);
+            count++;
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 29: DO WHILE LOOP
+-------------------------------------------------------------------------------
+
+Executes at least once
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int count = 22;
+
+        do {
+            System.out.println(count);
+            count++;
+        }
+        while (count <= 20);
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 30: SCANNER CLASS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+import java.time.LocalDate;
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Scanner
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("What is your name?");
+        String username = scanner.nextLine();
+        System.out.println("Hello " + username);
+
+        System.out.println("How old are you?");
+        int age = scanner.nextInt();
+        int year = LocalDate.now().minusYears(age).getYear();
+        System.out.println("You were born in " + year);
+
+        if (age < 18) {
+            System.out.println("and you are not an adult");
+        } else {
+            System.out.println("and you are an adult :)");
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 31: METHODS
+-------------------------------------------------------------------------------
+
+Method - block of code that only runs when we call it; used to perform logic
+Parameters - the data we pass into the method
+Built-in methods - methods provided by JRE
+User pre-defined methods - methods we build ourselves
+() - indicates we're invoking the method
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Built-in methods
+        System.out.println("Hello");
+        String brand = "Samsung";
+        System.out.println(brand.toUpperCase());
+        System.out.println(brand.startsWith("S"));
+        System.out.println(brand.endsWith("S"));
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 32: UNDERSTANDING METHODS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Test {
+    public static void main(String[] args) {
+        // Methods
+        char[] letters = {'A', 'A', 'B', 'C', 'D', 'D', 'D'};
+        int count = countOccurrences(letters);
+        System.out.println(count);
+    }
+
+    public static int countOccurrences(char [] letters) {
+        System.out.println("method countOccurrences was invoked");
+        return -1;
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 33: USER-DEFINED METHODS
+-------------------------------------------------------------------------------
+
+Programming - solving problems by creating methods and then writing
+algorithms inside of those methods
+
+Algorithm - sequence of steps to solve problem
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Test {
+    public static void main(String[] args) {
+        // Methods
+        char[] letters = {'A', 'A', 'B', 'C', 'D', 'D', 'D'};
+        int count = countOccurrences(letters, 'A');
+        System.out.println(count);
+    }
+
+    public static int countOccurrences(
+            char [] letters, char searchLetter) {
+        int count = 0;
+        for (char letter : letters) {
+            if (letter == searchLetter) {
+                count++;
+            }
+        }
+        return count;
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 34: CLASSES AND OBJECTS
+-------------------------------------------------------------------------------
+
+Class - blueprint to create anything you want
+1. Attributes - things that define object you want to create (e.g. color)
+2. Behaviors - what it can do
+
+Objects - anything you can think of in real world
+
+-------------------------------------------------------------------------------
+LESSON 35: CREATING CLASSES
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+    public static void main(String[] args) {
+        // Classes and Objects
+    }
+
+    static class Lens {
+        String brand;
+        String focalLength;
+        boolean isPrime;
+
+        Lens(String brand,
+             String focalLength,
+             boolean isPrime) {
+            this.brand = brand;
+            this.focalLength = focalLength;
+            this.isPrime = isPrime;
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 35: CREATING OBJECTS
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Main {
+    public static void main(String[] args) {
+        // Classes and Objects
+        Lens lensOne = new Lens(
+                "sony",
+                "85mm",
+                true);
+
+        Lens lensTwo = new Lens(
+                "sony",
+                "30mm",
+                true);
+
+        Lens lensThree = new Lens(
+                "canon",
+                "24-70mm",
+                false);
+    }
+
+    static class Lens {
+        String brand;
+        String focalLength;
+        boolean isPrime;
+
+        Lens(String brand,
+             String focalLength,
+             boolean isPrime) {
+            this.brand = brand;
+            this.focalLength = focalLength;
+            this.isPrime = isPrime;
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 36: PRINTING OBJECT ATTRIBUTES
+-------------------------------------------------------------------------------
+
+Class - blueprint for creating objects
+Object - something that models something in the real world
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+public class Test {
+    public static void main(String[] args) {
+        // Classes and Objects
+        Lens lensOne = new Lens(
+                "sony",
+                "85mm",
+                true);
+
+        Lens lensTwo = new Lens(
+                "sony",
+                "30mm",
+                true);
+
+        Lens lensThree = new Lens(
+                "canon",
+                "24-70mm",
+                false);
+        System.out.println("Lens 1");
+        System.out.println(lensOne.brand);
+        System.out.println(lensOne.focalLength);
+        System.out.println(lensOne.isPrime);
+
+        System.out.println("Lens 2");
+        System.out.println(lensTwo.brand);
+        System.out.println(lensTwo.focalLength);
+        System.out.println(lensTwo.isPrime);
+
+        System.out.println("Lens 3");
+        System.out.println(lensThree.brand);
+        System.out.println(lensThree.focalLength);
+        System.out.println(lensThree.isPrime);
+    }
+
+    static class Lens {
+        String brand;
+        String model;
+        String color;
+        double price;
+        double weight;
+        String focalLength;
+        boolean isPrime;
+
+        Lens(String brand,
+             String focalLength,
+             boolean isPrime) {
+            this.brand = brand;
+            this.focalLength = focalLength;
+            this.isPrime = isPrime;
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 37: PASSPORT EXAMPLE
+-------------------------------------------------------------------------------
+
+package com.mweinstein.tutorials.amigoscode.javafullcourse;
+
+import java.time.LocalDate;
+
+public class Test {
+    public static void main(String[] args) {
+        // Classes
+        Passport ukPassport = new Passport(
+                "1234",
+                "England (UK)",
+                LocalDate.of(2025, 1, 1));
+
+        Passport usPassport = new Passport(
+                "12399",
+                "USA",
+                LocalDate.of(2030, 1, 1));
+
+    }
+
+    static class Passport {
+        String number;
+        String country;
+        LocalDate expiryDate;
+
+        Passport(String number,
+                 String country,
+                 LocalDate expiryDate) {
+            this.number = number;
+            this.country = country;
+            this.expiryDate = expiryDate;
+        }
+    }
+}
+
+-------------------------------------------------------------------------------
+LESSON 38: LET'S WRAP UP
+-------------------------------------------------------------------------------
+
+Enroll in Java Essentials course for more advanced courses on Java
+
  */

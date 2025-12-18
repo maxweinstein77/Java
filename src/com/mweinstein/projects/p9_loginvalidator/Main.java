@@ -11,36 +11,42 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Username:");
+        System.out.println("Username: ");
         String username = scanner.nextLine();
         boolean usernameLengthSatisfied =
                 username.length() >= MINIMUM_USERNAME_LENGTH &&
                         username.length() <= MAXIMUM_USERNAME_LENGTH;
+
         if (!usernameLengthSatisfied) {
-            System.out.println
-                    ("Your username must be between " +
+            System.out.println(
+                    "Your username must be between " +
                             MINIMUM_USERNAME_LENGTH +
                             " and " +
                             MAXIMUM_USERNAME_LENGTH +
-                            " characters.");
+                            " characters."
+            );
         } else {
-            System.out.println("Password:");
+            System.out.println("Password: ");
             String password = scanner.nextLine();
             boolean passwordLengthSatisfied =
                     password.length() >= MINIMUM_PASSWORD_LENGTH &&
                             password.length() <= MAXIMUM_PASSWORD_LENGTH;
+
             if (!passwordLengthSatisfied) {
-                System.out.println
-                        ("Your password must be between " +
+                System.out.println(
+                        "Your password must be between " +
                                 MINIMUM_PASSWORD_LENGTH +
                                 " and " +
                                 MAXIMUM_PASSWORD_LENGTH +
-                                " characters.");
+                                " characters."
+                );
             } else {
                 boolean passwordNotEqualUsername = !password.equals(username);
+
                 if (!passwordNotEqualUsername) {
-                    System.out.println
-                            ("Your password cannot match your username!");
+                    System.out.println(
+                            "Your password cannot match your username!"
+                    );
                 } else {
                     System.out.println("Login successful!");
                 }
