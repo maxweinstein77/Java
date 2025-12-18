@@ -13,3 +13,5 @@ This repo contains my Java projects.
 7. [Date Time Checker](src/com/mweinstein/projects/p7_datetimechecker/Main.java)
 8. [Recovery Score Calculator](src/com/mweinstein/projects/p8_recoveryscorecalculator/Main.java)
 9. [Login Validator](src/com/mweinstein/projects/p9_loginvalidator/Main.java)
+10. [Password Strength Checker](src/com/mweinstein/projects/p10_passwordstrengthchecker/Main.java)
+11. [Free Shipping Checker](src/com/mweinstein/projects/p11_freeshippingchecker/Main.java)
