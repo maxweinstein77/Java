@@ -15,3 +15,5 @@ This repo contains my Java projects.
 9. [Login Validator](src/com/mweinstein/projects/p9_loginvalidator/Main.java)
 10. [Password Strength Checker](src/com/mweinstein/projects/p10_passwordstrengthchecker/Main.java)
 11. [Free Shipping Checker](src/com/mweinstein/projects/p11_freeshippingchecker/Main.java)
+12. [Workout Selector](src/com/mweinstein/projects/p12_workoutselector/Main.java)
+13. [Voting Simulation](src/com/mweinstein/projects/p13_votingsimulation/Main.java)
