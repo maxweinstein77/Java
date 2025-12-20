@@ -17,3 +17,4 @@ This repo contains my Java projects.
 11. [Free Shipping Checker](src/com/mweinstein/projects/p11_freeshippingchecker/Main.java)
 12. [Workout Selector](src/com/mweinstein/projects/p12_workoutselector/Main.java)
 13. [Voting Simulation](src/com/mweinstein/projects/p13_votingsimulation/Main.java)
+14. [Sleep Pattern Monitor](src/com/mweinstein/projects/p14_sleeppatternmonitor/Main.java)
