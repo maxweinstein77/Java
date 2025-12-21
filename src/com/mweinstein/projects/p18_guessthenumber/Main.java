@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int secretNumber = 7;
+        int secretNumber = (int) (Math.random() * 10) + 1;
         int numberOfGuesses = 0;
         int guess = 0;
 
