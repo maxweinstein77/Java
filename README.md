@@ -18,3 +18,7 @@ This repo contains my Java projects.
 12. [Workout Selector](src/com/mweinstein/projects/p12_workoutselector/Main.java)
 13. [Voting Simulation](src/com/mweinstein/projects/p13_votingsimulation/Main.java)
 14. [Sleep Pattern Monitor](src/com/mweinstein/projects/p14_sleeppatternmonitor/Main.java)
+15. [Countdown Timer](src/com/mweinstein/projects/p15_countdowntimer/Main.java)
+16. [Inventory Stock Alert](src/com/mweinstein/projects/p16_inventorylowstockalert/Main.java)
+17. [CPU Temperature Monitor](src/com/mweinstein/projects/p17_cputemperaturemonitor/Main.java)
+18. [Guess the Number](src/com/mweinstein/projects/p18_guessthenumber/Main.java)
