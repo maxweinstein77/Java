@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="" />
+    <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p19_pinentrysimulator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p20_hellouser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p21_birthyearcalculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +94,9 @@
       <workItem from="1765986901901" duration="20576000" />
       <workItem from="1766109637899" duration="8755000" />
       <workItem from="1766190774068" duration="2826000" />
-      <workItem from="1766280947108" duration="9510000" />
+      <workItem from="1766280947108" duration="10409000" />
+      <workItem from="1766345281681" duration="215000" />
+      <workItem from="1766365943106" duration="4774000" />
     </task>
     <servers />
   </component>
