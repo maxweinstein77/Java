@@ -22,3 +22,6 @@ This repo contains my Java projects.
 16. [Inventory Stock Alert](src/com/mweinstein/projects/p16_inventorylowstockalert/Main.java)
 17. [CPU Temperature Monitor](src/com/mweinstein/projects/p17_cputemperaturemonitor/Main.java)
 18. [Guess the Number](src/com/mweinstein/projects/p18_guessthenumber/Main.java)
+19. [ATM Withdrawal Simulator](src/com/mweinstein/projects/p19_atmwithdrawalsimulator/Main.java)
+20. [Hello User](src/com/mweinstein/projects/p20_hellouser/Main.java)
+21. [Birth Year Calculator](src/com/mweinstein/projects/p21_birthyearcalculator/Main.java)
