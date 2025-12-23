@@ -25,3 +25,5 @@ This repo contains my Java projects.
 19. [ATM Withdrawal Simulator](src/com/mweinstein/projects/p19_atmwithdrawalsimulator/Main.java)
 20. [Hello User](src/com/mweinstein/projects/p20_hellouser/Main.java)
 21. [Birth Year Calculator](src/com/mweinstein/projects/p21_birthyearcalculator/Main.java)
+22. [Email Validator](src/com/mweinstein/projects/p22_emailvalidator/Main.java)
+23. [Course Grade Analyzer](src/com/mweinstein/projects/p23_coursegradeanalyzer/Main.java)
