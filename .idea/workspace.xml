@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p19_pinentrysimulator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p20_hellouser/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p21_birthyearcalculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p22_emailvalidator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p23_coursegradedistribution/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +98,9 @@
       <workItem from="1766190774068" duration="2826000" />
       <workItem from="1766280947108" duration="10409000" />
       <workItem from="1766345281681" duration="215000" />
-      <workItem from="1766365943106" duration="4774000" />
+      <workItem from="1766365943106" duration="5315000" />
+      <workItem from="1766448607564" duration="127000" />
+      <workItem from="1766459043515" duration="7985000" />
     </task>
     <servers />
   </component>

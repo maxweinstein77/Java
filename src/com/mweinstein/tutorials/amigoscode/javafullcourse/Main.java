@@ -828,7 +828,7 @@ LESSON 32: UNDERSTANDING METHODS
 
 package com.mweinstein.tutorials.amigoscode.javafullcourse;
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
         // Methods
         char[] letters = {'A', 'A', 'B', 'C', 'D', 'D', 'D'};
@@ -853,7 +853,7 @@ Algorithm - sequence of steps to solve problem
 
 package com.mweinstein.tutorials.amigoscode.javafullcourse;
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
         // Methods
         char[] letters = {'A', 'A', 'B', 'C', 'D', 'D', 'D'};
