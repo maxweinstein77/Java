@@ -36,5 +36,5 @@ This repo contains my Java projects.
 30. [Hi Ada Lovelace](src/com/mweinstein/projects/p30_hiadalovelace/HiAdaLovelace.java)
 31. [Message Three Times](src/com/mweinstein/projects/p31_messagethreetimes/MessageThreeTimes.java)
 32. [Greeting](src/com/mweinstein/projects/p32_greeting/Greeting.java)
-33. [Conversation](src/com/mweinstein/projects/p33_/Conversation.java)
-34. [Story](src/com/mweinstein/projects/p34_/Story.java)
+33. [Conversation](src/com/mweinstein/projects/p33_conversation/Conversation.java)
+34. [Story](src/com/mweinstein/projects/p34_story/Story.java)
