@@ -29,3 +29,7 @@ This repo contains my Java projects.
 23. [Course Grade Analyzer](src/com/mweinstein/projects/p23_coursegradeanalyzer/Main.java)
 24. [Library Book Tracker](src/com/mweinstein/projects/p24_librarybooktracker/Main.java)
 25. [Passport Tracker](src/com/mweinstein/projects/p25_passporttracker/Main.java)
+26. [Ada Lovelace](src/com/mweinstein/projects/p26_adalovelace/Main.java)
+27. [Once Upon A Time](src/com/mweinstein/projects/p27_onceuponatime/Main.java)
+28. [Dinosaur](src/com/mweinstein/projects/p28_dinosaur/Main.java)
+29. [Message](src/com/mweinstein/projects/p29_message/Main.java)
