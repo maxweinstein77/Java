@@ -878,7 +878,8 @@ LESSON 34: CLASSES AND OBJECTS
 -------------------------------------------------------------------------------
 
 Class - blueprint to create anything you want
-1. Attributes - things that define object you want to create (e.g. color)
+1. Attributes - things that define object you want to create (e.g. color,
+aperture)
 2. Behaviors - what it can do
 
 Objects - anything you can think of in real world
@@ -975,6 +976,7 @@ public class Test {
                 "canon",
                 "24-70mm",
                 false);
+
         System.out.println("Lens 1");
         System.out.println(lensOne.brand);
         System.out.println(lensOne.focalLength);
