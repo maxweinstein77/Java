@@ -63,4 +63,24 @@ Concatenation - joining strings together
 
 scanner.nextLine() - reading strings
 
+-------------------------------------------------------------------------------
+1.4: VARIABLES
+-------------------------------------------------------------------------------
+
+Variable - container in which info of a given type can be stored
+
+Variable names are unique
+
+Variable type only stated during initial variable declaration
+
+Integer can be assigned to double type
+
+Floating-point value CANNOT be assigned to integer type
+
+Java uses camelCase for variables
+
+Integer.valueOf converts string to integer
+
+Double.valueOf converts string to double
+
 */

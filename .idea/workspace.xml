@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p24_librarybooktracker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p25_passporttracker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p26_adalovelace/AdaLovelace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p27_onceuponatime/OnceUponATime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p28_dinosaur/Dinosaur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p29_message/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p30_hiadalovelace/HiAdaLovelace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p31_messagethreetimes/MessageThreeTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p32_greeting/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p33_conversation/Conversation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p34_story/Story.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p35_variousvariables/VariousVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p37_integerinput/IntegerInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p38_doubleinput/DoubleInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p39_booleaninput/BooleanInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p40_differenttypesofinput/DifferentTypesOfInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/amigoscode/javafullcourse/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/BooleanInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +39,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BooleanInput.executor": "Run",
     "Application.Conversation.executor": "Run",
+    "Application.DifferentTypesOfInput.executor": "Run",
+    "Application.DoubleInput.executor": "Run",
     "Application.Greeting.executor": "Run",
+    "Application.IntegerInput.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MessageThreeTimes.executor": "Run",
     "Application.Story.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.VariousVariables.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -114,7 +111,7 @@
       <workItem from="1766345281681" duration="215000" />
       <workItem from="1766365943106" duration="5315000" />
       <workItem from="1766448607564" duration="127000" />
-      <workItem from="1766459043515" duration="19210000" />
+      <workItem from="1766459043515" duration="30160000" />
     </task>
     <servers />
   </component>

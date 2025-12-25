@@ -1,6 +1,6 @@
 package com.mweinstein.projects;
 
-public class Test {
+public class BooleanInput {
     public static void main(String[] args) {
 
     }
