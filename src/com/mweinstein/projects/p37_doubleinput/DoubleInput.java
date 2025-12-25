@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p38_doubleinput;
+package com.mweinstein.projects.p37_doubleinput;
 
 import java.util.Scanner;
 

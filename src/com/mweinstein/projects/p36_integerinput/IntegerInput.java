@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p37_integerinput;
+package com.mweinstein.projects.p36_integerinput;
 
 import java.util.Scanner;
 

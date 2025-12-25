@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p39_booleaninput;
+package com.mweinstein.projects.p38_booleaninput;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p40_differenttypesofinput;
+package com.mweinstein.projects.p39_differenttypesofinput;
 
 import java.util.Scanner;
 
