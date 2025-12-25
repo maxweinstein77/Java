@@ -38,3 +38,5 @@ This repo contains my Java projects.
 32. [Greeting](src/com/mweinstein/projects/p32_greeting/Greeting.java)
 33. [Conversation](src/com/mweinstein/projects/p33_conversation/Conversation.java)
 34. [Story](src/com/mweinstein/projects/p34_story/Story.java)
+35. [Various Variables](src/com/mweinstein/projects/p35_variousvariables/VariousVariables.java)
+36. [Integer Input](src/com/mweinstein/projects/p36_integerinput/IntegerInput.java)
