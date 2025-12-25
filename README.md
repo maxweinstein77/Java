@@ -40,3 +40,6 @@ This repo contains my Java projects.
 34. [Story](src/com/mweinstein/projects/p34_story/Story.java)
 35. [Various Variables](src/com/mweinstein/projects/p35_variousvariables/VariousVariables.java)
 36. [Integer Input](src/com/mweinstein/projects/p36_integerinput/IntegerInput.java)
+37. [Double Input](src/com/mweinstein/projects/p37_doubleinput/DoubleInput.java)
+38. [Boolean Input](src/com/mweinstein/projects/p38_integerinput/BooleanInput.java)
+39. [Different Types of Input](src/com/mweinstein/projects/p39_differenttypesofinput/DifferentTypesOfInput.java)
