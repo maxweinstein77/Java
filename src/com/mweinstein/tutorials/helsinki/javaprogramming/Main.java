@@ -83,4 +83,39 @@ Integer.valueOf converts string to integer
 
 Double.valueOf converts string to double
 
+-------------------------------------------------------------------------------
+1.5: CALCULATING WITH NUMBERS
+-------------------------------------------------------------------------------
+
+Parentheses - indicate order
+
+Expression - combination of values
+
+Type-casting operation - (double) to convert integer into floating point number
+
+-------------------------------------------------------------------------------
+1.6: CONDITIONAL STATEMENTS AND CONDITIONAL OPERATION
+-------------------------------------------------------------------------------
+
+{} to indicate blocks
+
+Else - alternative option
+
+Else if - multiple alternatives
+
+Comparisons are executed top down - stops at first condition that evaluates
+to true
+
+Modulo operator (%) - check divisibility of number
+
+Can't compare equality of strings using two equals signs - have to use .equals
+
+-------------------------------------------------------------------------------
+1.7: PROGRAMMING IN OUR SOCIETY
+-------------------------------------------------------------------------------
+
+Software is utilized in the world all around us today. It's the job of
+software engineers to design these digital services that we use and to ensure
+they function properly.
+
 */

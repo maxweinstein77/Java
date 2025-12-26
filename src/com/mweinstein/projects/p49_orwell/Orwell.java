@@ -1,0 +1,17 @@
+package com.mweinstein.projects.p49_orwell;
+
+import java.util.Scanner;
+
+public class Orwell {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Give me a number: ");
+        int number = Integer.valueOf(scanner.nextLine());
+
+        if (number == 1984) {
+            System.out.println("Orwell");
+        }
+    }
+}
