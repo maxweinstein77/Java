@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p58_fizzbuzz;
+package com.mweinstein.projects.p59_fizzbuzz;
 
 import java.util.Scanner;
 

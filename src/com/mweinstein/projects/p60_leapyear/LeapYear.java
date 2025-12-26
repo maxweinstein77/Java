@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p59_leapyear;
+package com.mweinstein.projects.p60_leapyear;
 
 import java.util.Scanner;
 

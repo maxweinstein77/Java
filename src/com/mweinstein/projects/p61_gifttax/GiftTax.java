@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p60_gifttax;
+package com.mweinstein.projects.p61_gifttax;
 
 import java.util.Scanner;
 

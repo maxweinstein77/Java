@@ -5,35 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p40_secondsinaday/SecondsInADay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p41_sumoftwonumbers/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p42_sumofthreenumbers/SumOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p43_additionformula/AdditionFormula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p44_multiplicationformula/MultiplicationFormula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p45_averageoftwonumbers/AverageOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p46_averageofthreenumbers/AverageOfThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p47_simplecalculator/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p48_speedingticket/SpeedingTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p49_orwell/Orwell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p50_ancient/Ancient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p51_positivity/Positivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p52_adulthood/Adulthood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p53_largerthanorequalto/LargerThanOrEqualTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p54_gradesandpoints/GradesAndPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p55_oddoreven/OddOrEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p56_password/Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p57_same/Same.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p58_checkingtheage/CheckingTheAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p58_fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p59_leapyear/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p60_gifttax/GiftTax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/BooleanInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p37_integerinput/IntegerInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p38_doubleinput/DoubleInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p39_booleaninput/BooleanInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p40_differenttypesofinput/DifferentTypesOfInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p58_fizzbuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p59_fizzbuzz/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p59_leapyear/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p60_leapyear/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p60_gifttax/GiftTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p61_gifttax/GiftTax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +130,7 @@
       <workItem from="1766365943106" duration="5315000" />
       <workItem from="1766448607564" duration="127000" />
       <workItem from="1766459043515" duration="30885000" />
-      <workItem from="1766703348561" duration="17369000" />
+      <workItem from="1766703348561" duration="18319000" />
     </task>
     <servers />
   </component>
