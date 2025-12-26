@@ -64,4 +64,4 @@ This repo contains my Java projects.
 58. [Checking the Age](src/com/mweinstein/projects/p58_checkingtheage/CheckingTheAge.java)
 59. [Fizz Buzz](src/com/mweinstein/projects/p59_fizzbuzz/FizzBuzz.java)
 60. [Leap Year](src/com/mweinstein/projects/p60_leapyear/LeapYear.java)
-61. [](src/com/mweinstein/projects/p61_gifttax/GiftTax.java)
+61. [Gift Tax](src/com/mweinstein/projects/p61_gifttax/GiftTax.java)
