@@ -65,3 +65,7 @@ This repo contains my Java projects.
 59. [Fizz Buzz](src/com/mweinstein/projects/p59_fizzbuzz/FizzBuzz.java)
 60. [Leap Year](src/com/mweinstein/projects/p60_leapyear/LeapYear.java)
 61. [Gift Tax](src/com/mweinstein/projects/p61_gifttax/GiftTax.java)
+62. [Squared](src/com/mweinstein/projects/p62_squared/Squared.java)
+63. [Square Root of Sum](src/com/mweinstein/projects/p63_squarerootofsum/SquareRootOfSum.java)
+64. [Absolute Value](src/com/mweinstein/projects/p64_absolutevalue/AbsoluteValue.java)
+65. [Comparing Numbers](src/com/mweinstein/projects/p65_comparingnumbers/ComparingNumbers.java)
