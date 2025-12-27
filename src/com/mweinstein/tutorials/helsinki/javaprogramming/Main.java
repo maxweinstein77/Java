@@ -118,4 +118,21 @@ Software is utilized in the world all around us today. It's the job of
 software engineers to design these digital services that we use and to ensure
 they function properly.
 
+-------------------------------------------------------------------------------
+2.1: RECURRING PROBLEMS AND PATTERNS TO SOLVE THEM
+-------------------------------------------------------------------------------
+
+Calculation Steps:
+
+1. Define the inputs required for the calculation and declare variables for
+them. Input refers to the values used in the calculation. You can typically identify the type of inputs from the problem description.
+
+2. Identify the operation needed, and declare a variable for the result of the
+calculation. Perform the calculation using the inputs, and assign the result to the variable that was reserved for it. The type of the result can also usually be identified from the problem description.
+
+3. Once the calculation is done, do something with its result. This can mean
+printing the result of a computation, or, for example, using it in calculating an average by dividing a sum of the inputs by their count.
+
+Conditional logic - if else
+
 */

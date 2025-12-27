@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p62_squared/Squared.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p63_squarerootofsum/SquareRootOfSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p64_absolutevalue/AbsoluteValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p65_comparingnumbers/ComparingNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p58_fizzbuzz/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p59_fizzbuzz/FizzBuzz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p59_leapyear/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p60_leapyear/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p60_gifttax/GiftTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p61_gifttax/GiftTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p58_fizzbuzz/FizzBuzz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p59_leapyear/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/mweinstein/projects/p60_gifttax/GiftTax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AbsoluteValue.executor": "Run",
     "Application.AdditionFormula.executor": "Run",
     "Application.Adulthood.executor": "Run",
     "Application.Ancient.executor": "Run",
@@ -42,6 +48,7 @@
     "Application.AverageOfTwoNumbers.executor": "Run",
     "Application.BooleanInput.executor": "Run",
     "Application.CheckingTheAge.executor": "Run",
+    "Application.ComparingNumbers.executor": "Run",
     "Application.Conversation.executor": "Run",
     "Application.DifferentTypesOfInput.executor": "Run",
     "Application.DoubleInput.executor": "Run",
@@ -63,6 +70,8 @@
     "Application.SecondsInADay.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
     "Application.SpeedingTicket.executor": "Run",
+    "Application.SquareRootOfSum.executor": "Run",
+    "Application.Squared.executor": "Debug",
     "Application.Story.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
@@ -130,7 +139,7 @@
       <workItem from="1766365943106" duration="5315000" />
       <workItem from="1766448607564" duration="127000" />
       <workItem from="1766459043515" duration="30885000" />
-      <workItem from="1766703348561" duration="18319000" />
+      <workItem from="1766703348561" duration="22428000" />
     </task>
     <servers />
   </component>
