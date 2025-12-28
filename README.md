@@ -69,3 +69,5 @@ This repo contains my Java projects.
 63. [Square Root of Sum](src/com/mweinstein/projects/p63_squarerootofsum/SquareRootOfSum.java)
 64. [Absolute Value](src/com/mweinstein/projects/p64_absolutevalue/AbsoluteValue.java)
 65. [Comparing Numbers](src/com/mweinstein/projects/p65_comparingnumbers/ComparingNumbers.java)
+66. [Counter](src/com/mweinstein/projects/p66_counter/Counter.java)
+67. [Carry On](src/com/mweinstein/projects/p67_carryon/CarryOn.java)
