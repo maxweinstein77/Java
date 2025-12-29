@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p66_counter/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p67_carryon/CarryOn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p68_arewethereyet/AreWeThereYet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/tutorials/helsinki/javaprogramming/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
     "Application.AdditionFormula.executor": "Run",
     "Application.Adulthood.executor": "Run",
     "Application.Ancient.executor": "Run",
+    "Application.AreWeThereYet.executor": "Run",
     "Application.AverageOfThreeNumbers.executor": "Run",
     "Application.AverageOfTwoNumbers.executor": "Run",
     "Application.BooleanInput.executor": "Run",
@@ -139,6 +138,8 @@
       <workItem from="1766703348561" duration="22529000" />
       <workItem from="1766813735130" duration="717000" />
       <workItem from="1766896612592" duration="3603000" />
+      <workItem from="1766900572486" duration="77000" />
+      <workItem from="1766987092046" duration="973000" />
     </task>
     <servers />
   </component>
