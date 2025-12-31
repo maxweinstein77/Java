@@ -73,3 +73,6 @@ This repo contains my Java projects.
 67. [Carry On](src/com/mweinstein/projects/p67_carryon/CarryOn.java)
 68. [Are We There Yet](src/com/mweinstein/projects/p68_arewethereyet/AreWeThereYet.java)
 69. [Only Positives](src/com/mweinstein/projects/p69_onlypositives/OnlyPositives.java)
+70. [](src/com/mweinstein/projects/p70_trackones/TrackOnes.java)
+71. [](src/com/mweinstein/projects/p71_numberofnumbers/NumberOfNumbers.java)
+72. [](src/com/mweinstein/projects/p72_numberofnegativenumbers/NumberOfNegativeNumbers.java)
