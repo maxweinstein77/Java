@@ -76,3 +76,4 @@ This repo contains my Java projects.
 70. [Track Ones](src/com/mweinstein/projects/p70_trackones/TrackOnes.java)
 71. [Number Of Numbers](src/com/mweinstein/projects/p71_numberofnumbers/NumberOfNumbers.java)
 72. [Number of Negative Numbers](src/com/mweinstein/projects/p72_numberofnegativenumbers/NumberOfNegativeNumbers.java)
+73. [Sum of Numbers](src/com/mweinstein/projects/p73_sumofnumbers/SumOfNumbers.java)
