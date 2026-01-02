@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p73_sumofnumbers/SumOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p74_numberofpositiveandnegativenumbers/NumberOfPositiveAndNegativeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p75_numberandsumofnumbers/NumberAndSumOfNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p69_onlypositives/OnlyPositives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p69_onlypositives/OnlyPositives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p70_trackones/TrackOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p70_trackones/TrackOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p71_numberofnumbers/NumberOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p71_numberofnumbers/NumberOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p72_numberofnegativenumbers/NumberOfNegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p72_numberofnegativenumbers/NumberOfNegativeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p73_sumofnumbers/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p73_sumofnumbers/SumOfNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +64,10 @@
     "Application.Main.executor": "Run",
     "Application.MessageThreeTimes.executor": "Run",
     "Application.MultiplicationFormula.executor": "Run",
+    "Application.NumberAndSumOfNumbers.executor": "Run",
     "Application.NumberOfNegativeNumbers.executor": "Run",
     "Application.NumberOfNumbers.executor": "Run",
+    "Application.NumberOfPositiveAndNegativeNumbers.executor": "Run",
     "Application.OddOrEven.executor": "Run",
     "Application.OnlyPositives.executor": "Run",
     "Application.Orwell.executor": "Run",
@@ -149,6 +157,7 @@
       <workItem from="1767154050200" duration="2235000" />
       <workItem from="1767156788921" duration="151000" />
       <workItem from="1767249624305" duration="637000" />
+      <workItem from="1767328010325" duration="1551000" />
     </task>
     <servers />
   </component>

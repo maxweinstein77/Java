@@ -9,18 +9,18 @@ public class OnlyPositives {
 
         while (true) {
             System.out.println("Give a number: ");
-            int number = Integer.valueOf(scanner.nextLine());
+            int numberFromUser = Integer.valueOf(scanner.nextLine());
 
-            if (number < 0) {
+            if (numberFromUser < 0) {
                 System.out.println("Unsuitable number");
                 continue;
             }
 
-            if (number == 0) {
+            if (numberFromUser == 0) {
                 break;
             }
 
-            System.out.println(number * number);
+            System.out.println(numberFromUser * numberFromUser);
         }
     }
 }
