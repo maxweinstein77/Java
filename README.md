@@ -77,4 +77,6 @@ This repo contains my Java projects.
 71. [Number Of Numbers](src/com/mweinstein/projects/p71_numberofnumbers/NumberOfNumbers.java)
 72. [Number of Negative Numbers](src/com/mweinstein/projects/p72_numberofnegativenumbers/NumberOfNegativeNumbers.java)
 73. [Sum of Numbers](src/com/mweinstein/projects/p73_sumofnumbers/SumOfNumbers.java)
-74. [Average of Numbers](src/com/mweinstein/projects/p74_averageofnumbers/AverageOfNumbers.java)
+74. [Number of Positive and Negative Numbers](src/com/mweinstein/projects/p74_numberofpositiveandnegativenumbers/NumberOfPositiveAndNegativeNumbers.java)
+75. [Number and Sum of Numbers](src/com/mweinstein/projects/p75_numberandsumofnumbers/NumberAndSumOfNumbers.java)
+76. [Average of Numbers](src/com/mweinstein/projects/p76_averageofnumbers/AverageOfNumbers.java)
