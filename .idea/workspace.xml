@@ -39,6 +39,7 @@
     "Application.Ancient.executor": "Run",
     "Application.AreWeThereYet.executor": "Run",
     "Application.AverageOfNumbers.executor": "Run",
+    "Application.AverageOfPositiveNumbers.executor": "Run",
     "Application.AverageOfThreeNumbers.executor": "Run",
     "Application.AverageOfTwoNumbers.executor": "Run",
     "Application.BooleanInput.executor": "Run",
@@ -152,7 +153,7 @@
       <workItem from="1767154050200" duration="2235000" />
       <workItem from="1767156788921" duration="151000" />
       <workItem from="1767249624305" duration="637000" />
-      <workItem from="1767328010325" duration="4285000" />
+      <workItem from="1767328010325" duration="6217000" />
     </task>
     <servers />
   </component>
