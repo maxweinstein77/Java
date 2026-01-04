@@ -80,3 +80,4 @@ This repo contains my Java projects.
 74. [Number of Positive and Negative Numbers](src/com/mweinstein/projects/p74_numberofpositiveandnegativenumbers/NumberOfPositiveAndNegativeNumbers.java)
 75. [Number and Sum of Numbers](src/com/mweinstein/projects/p75_numberandsumofnumbers/NumberAndSumOfNumbers.java)
 76. [Average of Numbers](src/com/mweinstein/projects/p76_averageofnumbers/AverageOfNumbers.java)
+77. [Average of Positive Numbers](src/com/mweinstein/projects/p77_averageofpositivenumbers/AverageOfPositiveNumbers.java)
