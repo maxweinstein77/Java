@@ -66,6 +66,7 @@
     "Application.NumberOfPositiveAndNegativeNumbers.executor": "Run",
     "Application.OddOrEven.executor": "Run",
     "Application.OneThroughFive.executor": "Run",
+    "Application.OneThroughTen.executor": "Run",
     "Application.OnlyPositives.executor": "Run",
     "Application.Orwell.executor": "Run",
     "Application.Password.executor": "Run",
@@ -155,6 +156,7 @@
       <workItem from="1767156788921" duration="151000" />
       <workItem from="1767249624305" duration="637000" />
       <workItem from="1767328010325" duration="7786000" />
+      <workItem from="1767665163769" duration="985000" />
     </task>
     <servers />
   </component>
