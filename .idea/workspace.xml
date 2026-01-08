@@ -53,6 +53,7 @@
     "Application.DifferentTypesOfInput.executor": "Run",
     "Application.DoubleInput.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
+    "Application.FromWhereToWhere.executor": "Run",
     "Application.GiftTax.executor": "Run",
     "Application.GradesAndPoints.executor": "Run",
     "Application.Greeting.executor": "Run",
@@ -121,7 +122,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -158,7 +158,8 @@
       <workItem from="1767156788921" duration="151000" />
       <workItem from="1767249624305" duration="637000" />
       <workItem from="1767328010325" duration="7786000" />
-      <workItem from="1767665163769" duration="5763000" />
+      <workItem from="1767665163769" duration="6660000" />
+      <workItem from="1767806539963" duration="9000" />
     </task>
     <servers />
   </component>
