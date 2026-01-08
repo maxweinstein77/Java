@@ -85,3 +85,4 @@ This repo contains my Java projects.
 79. [One Through Ten](src/com/mweinstein/projects/p79_onethroughten/OneThroughTen.java)
 80. [Counting](src/com/mweinstein/projects/p80_counting/Counting.java)
 81. [Counting to Hundred](src/com/mweinstein/projects/p81_countingtohundred/CountingToHundred.java)
+82. [From Where to Where](src/com/mweinstein/projects/p82_fromwheretowhere/FromWhereToWhere.java)
