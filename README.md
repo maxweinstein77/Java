@@ -86,3 +86,6 @@ This repo contains my Java projects.
 80. [Counting](src/com/mweinstein/projects/p80_counting/Counting.java)
 81. [Counting to Hundred](src/com/mweinstein/projects/p81_countingtohundred/CountingToHundred.java)
 82. [From Where to Where](src/com/mweinstein/projects/p82_fromwheretowhere/FromWhereToWhere.java)
+83. [While Four Times Three](src/com/mweinstein/projects/p83_whilefourtimesthree/WhileFourTimesThree.java)
+84. [For Four Times Three](src/com/mweinstein/projects/p84_forfourtimesthree/ForFourTimesThree.java)
+85. [Sum of a Sequence](src/com/mweinstein/projects/p85_sumofasequence/SumOfASequence.java)
