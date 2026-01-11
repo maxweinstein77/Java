@@ -90,3 +90,4 @@ This repo contains my Java projects.
 84. [For Four Times Three](src/com/mweinstein/projects/p84_forfourtimesthree/ForFourTimesThree.java)
 85. [Sum of a Sequence](src/com/mweinstein/projects/p85_sumofasequence/SumOfASequence.java)
 86. [Sum of a Sequence Sequel](src/com/mweinstein/projects/p86_sumofasequencesequel/SumOfASequenceSequel.java)
+87. [Factorial](src/com/mweinstein/projects/p86_factorial/Factorial.java)
