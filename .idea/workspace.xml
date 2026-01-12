@@ -88,6 +88,7 @@
     "Application.SumOfNumbers.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
+    "Application.SumOfValidNumbers.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TrackOnes.executor": "Run",
     "Application.VariousVariables.executor": "Run",
