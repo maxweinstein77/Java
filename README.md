@@ -92,3 +92,4 @@ This repo contains my Java projects.
 86. [Sum of a Sequence Sequel](src/com/mweinstein/projects/p86_sumofasequencesequel/SumOfASequenceSequel.java)
 87. [Factorial](src/com/mweinstein/projects/p87_factorial/Factorial.java)
 88. [Sum of Valid Numbers](src/com/mweinstein/projects/p88_sumofvalidnumbers/SumOfValidNumbers.java)
+89. [Dice Roll](src/com/mweinstein/projects/p89_diceroll/DiceRoll.java)
