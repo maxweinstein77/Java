@@ -50,6 +50,7 @@
     "Application.Counter.executor": "Run",
     "Application.Counting.executor": "Run",
     "Application.CountingToHundred.executor": "Run",
+    "Application.DiceRoll.executor": "Run",
     "Application.DifferentTypesOfInput.executor": "Run",
     "Application.DoubleInput.executor": "Run",
     "Application.Factorial.executor": "Run",
