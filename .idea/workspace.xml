@@ -77,6 +77,7 @@
     "Application.Orwell.executor": "Run",
     "Application.Password.executor": "Run",
     "Application.Positivity.executor": "Run",
+    "Application.RepeatingBreakingRemembering.executor": "Run",
     "Application.Same.executor": "Run",
     "Application.SecondsInADay.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
