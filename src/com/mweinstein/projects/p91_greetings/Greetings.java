@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p91_greetingss;
+package com.mweinstein.projects.p91_greetings;
 
 import java.util.Scanner;
 
