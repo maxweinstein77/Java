@@ -94,3 +94,6 @@ This repo contains my Java projects.
 88. [Sum of Valid Numbers](src/com/mweinstein/projects/p88_sumofvalidnumbers/SumOfValidNumbers.java)
 89. [Dice Roll](src/com/mweinstein/projects/p89_diceroll/DiceRoll.java)
 90. [Repeating, Breaking, Remembering](src/com/mweinstein/projects/p90_repeatingbreakingremembering/RepeatingBreakingRemembering.java)
+91. [Greetings](src/com/mweinstein/projects/p91_greetings/Greetings.java)
+92. [In a Hole in the Ground](src/com/mweinstein/projects/p92_inaholeintheground/InAHoleInTheGround.java)
+93. [Reprint](src/com/mweinstein/projects/p93_reprint/Reprint.java)
