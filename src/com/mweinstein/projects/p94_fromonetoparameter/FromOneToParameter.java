@@ -1,4 +1,4 @@
-package com.mweinstein.projects.p94_test;
+package com.mweinstein.projects.p94_fromonetoparameter;
 
 public class FromOneToParameter {
     public static void printUntilNumber(int number) {
