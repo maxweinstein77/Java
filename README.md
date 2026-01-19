@@ -98,4 +98,4 @@ This repo contains my Java projects.
 92. [In a Hole in the Ground](src/com/mweinstein/projects/p92_inaholeintheground/InAHoleInTheGround.java)
 93. [Reprint](src/com/mweinstein/projects/p93_reprint/Reprint.java)
 94. [From One to Parameter](src/com/mweinstein/projects/p94_fromonetoparameter/FromOneToParameter.java)
-95. [From Parameter to One](src/com/mweinstein/projects/p95_fromonetoparameter/FromParameterToOne.java)
+95. [From Parameter to One](src/com/mweinstein/projects/p95_fromparametertoone/FromParameterToOne.java)
