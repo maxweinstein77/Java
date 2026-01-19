@@ -57,6 +57,7 @@
     "Application.FizzBuzz.executor": "Run",
     "Application.ForFourTimesThree.executor": "Run",
     "Application.FromOneToParameter.executor": "Run",
+    "Application.FromParameterToOne.executor": "Run",
     "Application.FromWhereToWhere.executor": "Run",
     "Application.GiftTax.executor": "Run",
     "Application.GradesAndPoints.executor": "Run",
