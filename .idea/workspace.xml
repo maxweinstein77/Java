@@ -52,6 +52,7 @@
     "Application.CountingToHundred.executor": "Run",
     "Application.DiceRoll.executor": "Run",
     "Application.DifferentTypesOfInput.executor": "Run",
+    "Application.Division.executor": "Run",
     "Application.DoubleInput.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FizzBuzz.executor": "Run",
