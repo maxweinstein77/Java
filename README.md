@@ -99,3 +99,4 @@ This repo contains my Java projects.
 93. [Reprint](src/com/mweinstein/projects/p93_reprint/Reprint.java)
 94. [From One to Parameter](src/com/mweinstein/projects/p94_fromonetoparameter/FromOneToParameter.java)
 95. [From Parameter to One](src/com/mweinstein/projects/p95_fromparametertoone/FromParameterToOne.java)
+96. [Division](src/com/mweinstein/projects/p96_division/Division.java)
