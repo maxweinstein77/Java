@@ -100,3 +100,4 @@ This repo contains my Java projects.
 94. [From One to Parameter](src/com/mweinstein/projects/p94_fromonetoparameter/FromOneToParameter.java)
 95. [From Parameter to One](src/com/mweinstein/projects/p95_fromparametertoone/FromParameterToOne.java)
 96. [Division](src/com/mweinstein/projects/p96_division/Division.java)
+97. [Divisible by Three](src/com/mweinstein/projects/p97_divisiblebythree/DivisibleByThree.java)
