@@ -101,3 +101,4 @@ This repo contains my Java projects.
 95. [From Parameter to One](src/com/mweinstein/projects/p95_fromparametertoone/FromParameterToOne.java)
 96. [Division](src/com/mweinstein/projects/p96_division/Division.java)
 97. [Divisible by Three](src/com/mweinstein/projects/p97_divisiblebythree/DivisibleByThree.java)
+98. [Number Range Printer](src/com/mweinstein/projects/p98_numberrangeprinter/NumberRangePrinter.java)
