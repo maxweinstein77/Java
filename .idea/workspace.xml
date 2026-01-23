@@ -76,6 +76,7 @@
     "Application.NumberOfNegativeNumbers.executor": "Run",
     "Application.NumberOfNumbers.executor": "Run",
     "Application.NumberOfPositiveAndNegativeNumbers.executor": "Run",
+    "Application.NumberRangePrinter.executor": "Run",
     "Application.OddOrEven.executor": "Run",
     "Application.OneThroughFive.executor": "Run",
     "Application.OneThroughTen.executor": "Run",
