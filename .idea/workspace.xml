@@ -66,6 +66,7 @@
     "Application.Greeting.executor": "Run",
     "Application.Greetings.executor": "Run",
     "Application.InAHoleInTheGround.executor": "Run",
+    "Application.IncrementByThree.executor": "Run",
     "Application.IntegerInput.executor": "Run",
     "Application.LargerThanOrEqualTo.executor": "Run",
     "Application.LeapYear.executor": "Run",
