@@ -102,3 +102,6 @@ This repo contains my Java projects.
 96. [Division](src/com/mweinstein/projects/p96_division/Division.java)
 97. [Divisible by Three](src/com/mweinstein/projects/p97_divisiblebythree/DivisibleByThree.java)
 98. [Number Range Printer](src/com/mweinstein/projects/p98_numberrangeprinter/NumberRangePrinter.java)
+99. [Increment by Three](src/com/mweinstein/projects/p99_incrementbythree/IncrementByThree.java)
+100. [Number Uno](src/com/mweinstein/projects/p100_numberuno/NumberUno.java)
+101. [Taco Method](src/com/mweinstein/projects/p101_tacomethod/TacoMethod.java)
