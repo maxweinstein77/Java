@@ -106,3 +106,4 @@ This repo contains my Java projects.
 100. [Number Uno](src/com/mweinstein/projects/p100_numberuno/NumberUno.java)
 101. [Taco Method](src/com/mweinstein/projects/p101_tacomethod/TacoMethod.java)
 102. [Word](src/com/mweinstein/projects/p102_word/Word.java)
+103. [Division with Exception](src/com/mweinstein/projects/p103_divisionwithexception/DivisionWithException.java)
