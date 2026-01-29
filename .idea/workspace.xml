@@ -41,6 +41,7 @@
     "Application.AverageOfNumbers.executor": "Run",
     "Application.AverageOfPositiveNumbers.executor": "Run",
     "Application.AverageOfThreeNumbers.executor": "Run",
+    "Application.AverageOfThreeNumbersMethod.executor": "Run",
     "Application.AverageOfTwoNumbers.executor": "Run",
     "Application.BooleanInput.executor": "Run",
     "Application.CarryOn.executor": "Run",
