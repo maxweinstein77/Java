@@ -108,3 +108,4 @@ This repo contains my Java projects.
 102. [Word](src/com/mweinstein/projects/p102_word/Word.java)
 103. [Division with Exception](src/com/mweinstein/projects/p103_divisionwithexception/DivisionWithException.java)
 104. [Average of Three Numbers Method](src/com/mweinstein/projects/p104_averageofthreenumbersmethod/AverageOfThreeNumbersMethod.java)
+105. [Steps to Middle](src/com/mweinstein/projects/p105_stepstomiddle/StepsToMiddle.java)
