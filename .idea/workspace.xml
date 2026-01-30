@@ -96,6 +96,7 @@
     "Application.SpeedingTicket.executor": "Run",
     "Application.SquareRootOfSum.executor": "Run",
     "Application.Squared.executor": "Run",
+    "Application.StepsToMiddle.executor": "Run",
     "Application.Story.executor": "Run",
     "Application.SumOfASequence.executor": "Run",
     "Application.SumOfASequenceSequel.executor": "Run",
