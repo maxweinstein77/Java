@@ -3,6 +3,10 @@ package com.mweinstein.projects.p106_sumoffournumbers;
 import java.util.Scanner;
 
 public class SumOfFourNumbers {
+    public static int sum(int first, int second, int third, int fourth) {
+        return first + second + third + fourth;
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -20,9 +24,5 @@ public class SumOfFourNumbers {
 
         System.out.println("The combined sum of the four numbers is " +
                 sum(first, second, third, fourth));
-    }
-
-    public static int sum(int first, int second, int third, int fourth) {
-        return first + second + third + fourth;
     }
 }
