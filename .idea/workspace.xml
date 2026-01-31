@@ -100,6 +100,7 @@
     "Application.Story.executor": "Run",
     "Application.SumOfASequence.executor": "Run",
     "Application.SumOfASequenceSequel.executor": "Run",
+    "Application.SumOfFourNumbers.executor": "Run",
     "Application.SumOfNumbers.executor": "Run",
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
