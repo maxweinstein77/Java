@@ -1,5 +1,6 @@
 package com.mweinstein.projects.p106_sumoffournumbers;
 
+import java.util.Comparator;
 import java.util.Scanner;
 
 public class SumOfFourNumbers {
