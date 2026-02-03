@@ -112,5 +112,5 @@ This repo contains my Java projects.
 106. [Sum of Four Numbers](src/com/mweinstein/projects/p106_sumoffournumbers/SumOfFourNumbers.java)
 107. [Alphabetical Comparator](src/com/mweinstein/projects/p107_alphabeticalcomparator/AlphabeticalComparator.java)
 108. [Reverse Alphabetical Comparator](src/com/mweinstein/projects/p108_reversealphabeticalcomparator/ReverseAlphabeticalComparator.java)
-109. [Case Sensitive Comparator](src/com/mweinstein/projects/p109_casesensitivecomparator/CaseSensitiveComparator.java)
+109. [Case Insensitive Comparator](src/com/mweinstein/projects/p109_caseinsensitivecomparator/CaseSensitiveComparator.java)
 110. [Length Comparator](src/com/mweinstein/projects/p110_lengthcomparator/LengthComparator.java)
