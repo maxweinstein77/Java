@@ -95,6 +95,7 @@
     "Application.RepeatingBreakingRemembering.executor": "Run",
     "Application.Reprint.executor": "Run",
     "Application.ReverseAlphabeticalComparator.executor": "Run",
+    "Application.ReverseLengthComparator.executor": "Run",
     "Application.Same.executor": "Run",
     "Application.SecondsInADay.executor": "Run",
     "Application.SimpleCalculator.executor": "Run",
