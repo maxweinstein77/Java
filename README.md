@@ -115,3 +115,4 @@ This repo contains my Java projects.
 109. [Case Insensitive Comparator](src/com/mweinstein/projects/p109_caseinsensitivecomparator/CaseInsensitiveComparator.java)
 110. [Length Comparator](src/com/mweinstein/projects/p110_lengthcomparator/LengthComparator.java)
 111. [Reverse Length Comparator](src/com/mweinstein/projects/p111_reverselengthcomparator/ReverseLengthComparator.java)
+112. [Add Five](src/com/mweinstein/projects/p112_addfive/AddFive.java)
