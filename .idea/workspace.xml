@@ -34,6 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AbsoluteValue.executor": "Run",
+    "Application.AddFive.executor": "Run",
     "Application.AdditionFormula.executor": "Run",
     "Application.Adulthood.executor": "Run",
     "Application.AlphabeticalComparator.executor": "Run",
