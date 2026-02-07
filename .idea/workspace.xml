@@ -112,6 +112,7 @@
     "Application.SumOfThreeNumbers.executor": "Run",
     "Application.SumOfTwoNumbers.executor": "Run",
     "Application.SumOfValidNumbers.executor": "Run",
+    "Application.Summation.executor": "Run",
     "Application.TacoMethod.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TrackOnes.executor": "Run",
