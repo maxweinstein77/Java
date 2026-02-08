@@ -117,3 +117,4 @@ This repo contains my Java projects.
 111. [Reverse Length Comparator](src/com/mweinstein/projects/p111_reverselengthcomparator/ReverseLengthComparator.java)
 112. [Add Five](src/com/mweinstein/projects/p112_addfive/AddFive.java)
 113. [Summation](src/com/mweinstein/projects/p113_summation/Summation.java)
+114. [Smallest](src/com/mweinstein/projects/p114_smallest/Smallest.java)
