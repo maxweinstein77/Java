@@ -68,6 +68,7 @@
     "Application.FromWhereToWhere.executor": "Run",
     "Application.GiftTax.executor": "Run",
     "Application.GradesAndPoints.executor": "Run",
+    "Application.Greatest.executor": "Run",
     "Application.Greeting.executor": "Run",
     "Application.Greetings.executor": "Run",
     "Application.InAHoleInTheGround.executor": "Run",
