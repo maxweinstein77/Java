@@ -45,6 +45,7 @@
     "Application.AverageOfThreeNumbers.executor": "Run",
     "Application.AverageOfThreeNumbersMethod.executor": "Run",
     "Application.AverageOfTwoNumbers.executor": "Run",
+    "Application.Averaging.executor": "Run",
     "Application.BooleanInput.executor": "Run",
     "Application.CarryOn.executor": "Run",
     "Application.CaseInsensitiveComparator.executor": "Run",
