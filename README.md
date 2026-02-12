@@ -119,4 +119,4 @@ This repo contains my Java projects.
 113. [Summation](src/com/mweinstein/projects/p113_summation/Summation.java)
 114. [Smallest](src/com/mweinstein/projects/p114_smallest/Smallest.java)
 115. [Greatest](src/com/mweinstein/projects/p115_greatest/Greatest.java)
-116. [Greatest](src/com/mweinstein/projects/p116_averaging/Averaging.java)
+116. [Averaging](src/com/mweinstein/projects/p116_averaging/Averaging.java)
