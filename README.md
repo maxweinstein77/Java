@@ -121,3 +121,4 @@ This repo contains my Java projects.
 115. [Greatest](src/com/mweinstein/projects/p115_greatest/Greatest.java)
 116. [Averaging](src/com/mweinstein/projects/p116_averaging/Averaging.java)
 117. [Hello Number](src/com/mweinstein/projects/p117_hellonumber/HelloNumber.java)
+118. [Print Stars](src/com/mweinstein/projects/p118_printstars/PrintStars.java)
