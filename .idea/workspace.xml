@@ -96,6 +96,7 @@
     "Application.Orwell.executor": "Run",
     "Application.Password.executor": "Run",
     "Application.Positivity.executor": "Run",
+    "Application.PrintStars.executor": "Run",
     "Application.RepeatingBreakingRemembering.executor": "Run",
     "Application.Reprint.executor": "Run",
     "Application.ReverseAlphabeticalComparator.executor": "Run",
