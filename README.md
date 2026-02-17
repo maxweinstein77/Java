@@ -123,3 +123,4 @@ This repo contains my Java projects.
 117. [Hello Number](src/com/mweinstein/projects/p117_hellonumber/HelloNumber.java)
 118. [Print Stars](src/com/mweinstein/projects/p118_printstars/PrintStars.java)
 119. [Sum of Four Numbers](src/com/mweinstein/projects/p119_sumoffournumbers/SumOfFourNumbers.java)
+120. [Workout Log (V1)](src/com/mweinstein/projects/p120_workoutlogv1/WorkoutLogV1.java)
