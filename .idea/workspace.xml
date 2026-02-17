@@ -124,6 +124,7 @@
     "Application.VariousVariables.executor": "Run",
     "Application.WhileFourTimesThree.executor": "Run",
     "Application.Word.executor": "Run",
+    "Application.WorkoutLog.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
