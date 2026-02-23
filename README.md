@@ -125,3 +125,4 @@ This repo contains my Java projects.
 119. [Sum of Four Numbers](src/com/mweinstein/projects/p119_sumoffournumbers/SumOfFourNumbers.java)
 120. [Workout Log (V1)](src/com/mweinstein/projects/p120_workoutlogv1/WorkoutLogV1.java)
 121. [Workout Log (V2)](src/com/mweinstein/projects/p121_workoutlogv2/WorkoutLogV2.java)
+122. [Workout Log (V3)](src/com/mweinstein/projects/p122_workoutlogv3/WorkoutLogV3.java)
