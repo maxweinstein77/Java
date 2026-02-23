@@ -127,6 +127,7 @@
     "Application.WorkoutLog.executor": "Run",
     "Application.WorkoutLogV1.executor": "Run",
     "Application.WorkoutLogV2.executor": "Run",
+    "Application.WorkoutLogV3.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
