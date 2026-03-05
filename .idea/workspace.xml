@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bf7c6d6-3671-4ad3-99bc-15c71811e3ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p123_starsign/StarSign.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mweinstein/projects/p74_numberofpositiveandnegativenumbers/NumberOfPositiveAndNegativeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mweinstein/projects/p74_numberofpositiveandnegativenumbers/NumberOfPositiveAndNegativeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +108,7 @@
     "Application.SpeedingTicket.executor": "Run",
     "Application.SquareRootOfSum.executor": "Run",
     "Application.Squared.executor": "Run",
+    "Application.StarSign.executor": "Run",
     "Application.StepsToMiddle.executor": "Run",
     "Application.Story.executor": "Run",
     "Application.SumOfASequence.executor": "Run",
