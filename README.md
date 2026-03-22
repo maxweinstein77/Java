@@ -127,3 +127,4 @@ This repo contains my Java projects.
 121. [Workout Log (V2)](src/com/mweinstein/projects/p121_workoutlogv2/WorkoutLogV2.java)
 122. [Workout Log (V3)](src/com/mweinstein/projects/p122_workoutlogv3/WorkoutLogV3.java)
 123. [Star Sign](src/com/mweinstein/projects/p123_starsign/StarSign.java)
+124. [Advanced Astrology](src/com/mweinstein/projects/p124_advancedastrology/advancedastrology.java)
